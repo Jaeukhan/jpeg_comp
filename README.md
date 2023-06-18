@@ -19,3 +19,9 @@ psnr과 ssim을 이용하여 원본과 얼마만큼 비슷한지를 측정(얼�
 5. 8X8 DCT
 6. quantization
 7. zig-zag scan & run-length coding
+
+## 3. Result
+
+| JPEG img                                                     |
+| ------------------------------------------------------------ |
+| ![jpeg.png](result/2%EB%B2%88%EA%B2%B0%EA%B3%BC/90lena..jpg) |
